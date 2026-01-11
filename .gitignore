@@ -1,6 +1,9 @@
 DM2025-Lab1-Homework-TA_Grading_Reference.ipynb
 Git Intro & How to hand your homework.ipynb
 
+.ipynb_checkpoints/
+__pycache__/
+
 # Ignore virtual environment
 .venv/
 
